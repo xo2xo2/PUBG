@@ -44114,7 +44114,7 @@ $(document).ready(function() {
 
         // تحميل صفحتك المخصصة بدلاً من ذلك
 
-        return $.get('https://xo2xo2.github.io/wxo/gamexo.html')
+        return $.get('https://xo2xo2.github.io/PUBG/gametnen.html')
 
           .then(function(customContent) {
 
