@@ -45130,7 +45130,7 @@ var Ot = function(t) {
 
   document.body.style.backgroundColor = "";
   document.body.style.backgroundImage =
-    "linear-gradient(135deg, rgba(0, 0, 0, 0.28), rgba(255, 255, 255, 0.31))";
+    "url(https://imgur.com/aEXx8HL.png)";
   document.body.style.backgroundRepeat = "no-repeat";
   document.body.style.backgroundSize = "cover";
   document.body.style.overflow = "hidden";
