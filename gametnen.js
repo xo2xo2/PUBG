@@ -45392,7 +45392,7 @@ function cleanupBackgroundMemory() {
       if (!gameInstance || !gameInstance.Fh) return;
 
       // Set line style
-      linesGraphics.lineStyle(2.5, 0xFFFFFF, 0.9); // White lines, thicker and more opaque
+      linesGraphics.lineStyle(0.2, 0xFFFFFF, 0.9); // White lines, thicker and more opaque
 
       // Iterate through all players/snakes
       for (const playerId in gameInstance.Fh) {
@@ -45428,7 +45428,7 @@ function cleanupBackgroundMemory() {
           const perpY = dx / length;
 
           // Draw horizontal line across the segment
-          const lineLength = radius * 12; // Line extends across body width
+          const lineLength = radius * 4; // Line extends across body width
           const startX = x1 + perpX * lineLength;
           const startY = y1 + perpY * lineLength;
           const endX = x1 - perpX * lineLength;
