@@ -18932,7 +18932,7 @@ _0x281400 += 41;
 
       };
 
-      var _0x34cbc5 = ["#ffffffff", "#ffffffff", "#00B2ED", "#FF4544", "#0094D7", "#CCCF81", "#ff0999"];
+      var _0x34cbc5 = ["#ffcd39ff", "#eeff00ff", "#00B2ED", "#FF4544", "#0094D7", "#CCCF81", "#ff0999"];
 
       for (var _0x16d41d = 0; _0x16d41d < _0x34cbc5.length; _0x16d41d++) {
 
@@ -18942,7 +18942,7 @@ _0x281400 += 41;
 
           align: "center",
 
-          fill: "#ffffff",
+          fill: "0x3d2d94",
 
           fontSize: 25,
 
@@ -19134,7 +19134,7 @@ _0x281400 += 41;
 
       w2c2020.killTotal.y = 133;
 
-      w2c2020.clock = PIXI.Sprite.from("https://asserts.wormworld.io/images/clock.png");
+      w2c2020.clock = PIXI.Sprite.from("https://timmapwormate.com/images/store/clock.png");
 
       w2c2020.clock.width = 100;
 
