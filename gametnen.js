@@ -18828,7 +18828,7 @@ _0x281400 += 41;
 
             stroke: "#ffe600ff",
 
-            strokeThickness: 1,
+            strokeThickness: 0.3,
 
             whiteSpace: "normal",
 
@@ -18848,7 +18848,7 @@ _0x281400 += 41;
 
             stroke: "#ffe600ff",
             
-            strokeThickness: 1,
+            strokeThickness: 0.3,
 
             whiteSpace: "normal",
 
