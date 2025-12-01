@@ -18932,7 +18932,7 @@ _0x281400 += 41;
 
       };
 
-      var _0x34cbc5 = ["#ffcd39ff", "#eeff00ff", "#00B2ED", "#FF4544", "#0094D7", "#CCCF81", "#ff0999"];
+      var _0x34cbc5 = ["#f6ff00ff", "#ffcd36ff", "#00B2ED", "#FF4544", "#0094D7", "#CCCF81", "#ff0999"];
 
       for (var _0x16d41d = 0; _0x16d41d < _0x34cbc5.length; _0x16d41d++) {
 
