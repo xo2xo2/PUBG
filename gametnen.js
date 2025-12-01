@@ -18942,7 +18942,7 @@ _0x281400 += 41;
 
           align: "center",
 
-          fill: "0x3d2d94",
+          fill: _0x3d2d94,
 
           fontSize: 25,
 
